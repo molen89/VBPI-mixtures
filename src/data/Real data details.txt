@@ -1,0 +1,18 @@
+The dataset names and their "Legacy" TreeBASE Matrix IDs are shown below. In order to search the datasets in treebase.org (and access their up-to-date matrix IDs), use the example url: 
+
+https://treebase.org/treebase-web/search/matrixSearch.html?query=tb.identifier.matrix.tb1=M336
+
+Also, notice that the data we refer to as DS5-11 are referred as DS6-12 in other papers.
+
+DatasetName	LegacyTreeBASEMatrixID	UpToDateTreeBASEMatrixID NTax	NChar
+DS1	M336	M2017	27	1949
+DS2	M501	M2131	29	2520
+DS3 	M1510	M127	36	1812
+DS4	M1366	M487	41	1137
+DS5	M3475	M2907	50	378
+DS6	M1044	M220	50	1133
+DS7	M1809	M2449	59	1824
+DS8	M755	M2261	64	1008
+DS9	M1748	M2389	67	955
+DS10	M520	M2152	67	1098
+DS11	M767	M2274	71	1082
